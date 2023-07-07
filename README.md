@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Smal-Sites
+- 👋 Hi, I’m @DiGiTiL_LyF
 - 👀 I’m interested in technology and art
-- 🌱 I’m currently learning Full Stack through Udemy and Sabio...
+- 🌱 I’m currently a Full Stack Designer/Developer...
 - 💞️ I’m looking to collaborate on any project to gain valuable coding habits
-- 📫 How to reach me reach me via email for serious inquiries at mauricesorrellhenderson@gmail.com
+- 📫 How to reach me reach me via email for serious inquiries at maurice@digitillyf.com
 
 <!---
 Smal-Sites/Smal-Sites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
